@@ -4,13 +4,15 @@
 
 ---
 
-### 👋 Acerca de mí
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mi***
 
-Soy estudiante de Licenciatura en Tecnología Digital en la Universidad Torcuato Di Tella (UTDT), y tengo 21 años. Me apasiona la tecnología y la programación, con un interés particular en algoritmos, experiencia de usuario y resolución de problemas. Soy curiosa, dedicada y con iniciativa a la hora de emprender un nuevo proyecto — disfruto aprender constantemente y enfrentarme a nuevos desafíos.
+Soy estudiante de Licenciatura en Tecnología Digital en la Universidad Torcuato Di Tella (UTDT), con interés en el desarrollo de software, la visualización de datos y la experiencia de usuario.
 
-Me enfoco principalmente en resolución de problemas, optimización y visualización de datos. Este repositorio reúne algunos de los proyectos académicos en los que fui participando durante la carrera.
+Me gusta construir soluciones que combinen programación, datos y diseño, siempre buscando aprender nuevas herramientas y mejorar la forma en que las personas interactúan con la tecnología.
 
-Actualmente estoy buscando mi primera experiencia laboral: una oportunidad donde pueda aplicar mis conocimientos, seguir creciendo y aportar valor a un equipo. 🚀
+En este GitHub comparto proyectos académicos y personales que reflejan mi recorrido y las tecnologías con las que trabajo.
+
+Actualmente estoy en búsqueda de mi primera experiencia profesional, donde pueda seguir creciendo, aprender de nuevos desafíos y contribuir a un equipo. 
 
 <div align="center">
 
