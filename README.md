@@ -46,4 +46,6 @@ Actualmente estoy en búsqueda de mi primera experiencia profesional, donde pued
 Los podrás encontrar en mis repositorios:
 
 - **TP-FINAL_VISUA** — Visualización de datos tipo scrollytelling sobre el Holocausto "La historia que no debemos olvidar". Proyecto grupal. link: [HERE](https://francescadiiuorio.github.io/TP-FINAL_VISUA/)
--
+- **TP2-Metodos-Computacionales** — Ajuste de curvas de Bézier por cuadrados mínimos, con implementación de descenso por gradiente y método de Newton. Proyecto grupal. link: [HERE](https://github.com/lourdesMV/TP2-Metodos-Computacionales)
+- **Seam-Carving** — Redimensionado de imágenes consciente del contenido, comparando fuerza bruta, backtracking y programación dinámica. Proyecto grupal. link: [HERE](https://github.com/lourdesMV/Seam-Carving)
+- **GAP** — Heurísticas y metaheurísticas (Simulated Annealing, GRASP) para el Problema de Asignación Generalizada aplicado a logística de depósitos. Proyecto grupal. link: [HERE](https://github.com/lourdesMV/GAP)
