@@ -45,5 +45,5 @@ Actualmente estoy en búsqueda de mi primera experiencia profesional, donde pued
 ### 📂 Proyectos
 Los podrás encontrar en mis repositorios:
 
-- **TP-FINAL_VISUA** — Visualización de datos tipo scrollytelling sobre el Holocausto "La historia que no debemos olvidar". Proyecto grupal.
+- **TP-FINAL_VISUA** — Visualización de datos tipo scrollytelling sobre el Holocausto "La historia que no debemos olvidar". Proyecto grupal. link: [HERE](https://francescadiiuorio.github.io/TP-FINAL_VISUA/)
 -
